@@ -1,0 +1,23 @@
+.restaurant-list {
+    margin-top: 20px;
+  }
+  
+  .header, .footer {
+    background-color: #343a40;
+    color: white;
+  }
+  
+  .footer {
+    padding: 10px 0;
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .card {
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .card-body {
+    text-align: center;
+  }
+  

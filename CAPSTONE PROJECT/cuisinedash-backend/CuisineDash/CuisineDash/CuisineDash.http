@@ -1,0 +1,6 @@
+@CuisineDash_HostAddress = http://localhost:5187
+
+GET {{CuisineDash_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

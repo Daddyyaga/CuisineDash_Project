@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\downloads\\CAPSTONE PROJECT\\CAPSTONE PROJECT\\cuisinedash-backend\\CuisineDash\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A87D2C9-5187-4B48-BF59-EA70B1CB7A91}|CuisineDash\\CuisineDash.csproj|d:\\downloads\\capstone project\\capstone project\\cuisinedash-backend\\cuisinedash\\cuisinedash\\dto\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A87D2C9-5187-4B48-BF59-EA70B1CB7A91}|CuisineDash\\CuisineDash.csproj|solutionrelative:cuisinedash\\dto\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserLoginDto.cs",
+              "DocumentMoniker": "D:\\downloads\\CAPSTONE PROJECT\\CAPSTONE PROJECT\\cuisinedash-backend\\CuisineDash\\CuisineDash\\DTO\\UserLoginDto.cs",
+              "RelativeDocumentMoniker": "CuisineDash\\DTO\\UserLoginDto.cs",
+              "ToolTip": "D:\\downloads\\CAPSTONE PROJECT\\CAPSTONE PROJECT\\cuisinedash-backend\\CuisineDash\\CuisineDash\\DTO\\UserLoginDto.cs",
+              "RelativeToolTip": "CuisineDash\\DTO\\UserLoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T10:17:34.199Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
